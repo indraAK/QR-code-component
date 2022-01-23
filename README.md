@@ -2,6 +2,8 @@
 
 ![screenshot](https://i.ibb.co/bXWcXrg/qr-code.png)
 
+_[View Demo](https://pensive-snyder-b39c5c.netlify.app/)_
+
 ## Built With
 
 - HTML
